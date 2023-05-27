@@ -6,8 +6,9 @@
 
 ### About me 👩‍💻
  
+<p></p>  <img align='right' src='https://i.pinimg.com/564x/33/c7/be/33c7beb9b676d92cdaf589c7fae4a5d8.jpg' width='140'>
 
-* 🌸Residence: perú -Lima 🌏 <img align='right' src='https://i.pinimg.com/564x/33/c7/be/33c7beb9b676d92cdaf589c7fae4a5d8.jpg' width='140'>
+* 🌸Residence: perú -Lima 🌏
 * 🌸Profession: Frontend Developer 💻
 * 🌸Portafolio: Work portfolio [Fiorella-Yumi](https://github.com/fiorella-yumi) 
 * 🌸Hobbies: Paint 🖌 / swimming 🏊‍ / reading 📚 / coding ⌨️
