@@ -1,13 +1,33 @@
 
 
-<h1 align='center'> Hi, I'm Fiorella Yumi ❤️＼( ´ ▽ ` )／❤️</h1>
-<p align="center">I embarked on a journey into the world of programming as a personal challenge to better myself.I have developed a deep passion for <code>coding;</code> it has not only revealed to me the inherent beauty of web development but also brought me immense joy in witnessing my growth and the things I am capable of accomplishing today.👩‍💻✨</p>
+<h1 align='center'> Hi, I'm Fiorella Yumi 😊👋</h1>
+ <br/>
+<p align="center"><samp> ✨ I embarked on a journey into the world of programming as a personal challenge to better myself.I have developed a deep passion for <code>coding;</code> it has not only revealed to me the inherent beauty of web development but also brought me immense joy in witnessing my growth and the things I am capable of accomplishing today✨</samp></p>
 
+### About me 👩‍💻
+ 
 
+* 🌸Residence: perú -Lima 🌏 <img align='right' src='https://i.pinimg.com/564x/33/c7/be/33c7beb9b676d92cdaf589c7fae4a5d8.jpg' width='160'>
+* 🌸Profession: Frontend Developer 💻
+* 🌸Portafolio: Work portfolio [Fiorella-Yumi](https://github.com/fiorella-yumi) 
+* 🌸Hobbies: Paint 🖌 / swimming 🏊‍ / reading 📚 / coding ⌨️
+* 🌸Goals: "Grow, evolve, be your best version, always in constant improvement." 🫶
+
+__________________________________________________________________________________________________
+
+### Stats
+
+<div>
+  <a href="https://github.com/rpdana">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rpdana&theme=radical&show_icons=true"/>
+</div>
+   
+
+   
 <br>
+<img width="50" alt="danagif" src="https://i.pinimg.com/originals/98/77/d8/9877d84ca295e9caf765ae415b6001c8.gif"
 <img align="right" height="180" alt="danagif" src="https://cdn.discordapp.com/attachments/836712599180935248/994459932810301451/GIFGIT.gif">
 </br>
-
 - 🎓 Cursando 8º Semestre em Design de Games 
 - 💚 UAM
 - 😉 Pronome: ela/dela
@@ -40,16 +60,7 @@
    </body>
   </br>
   
-__________________________________________________________________________________________________
 
-### Stats
-
-<div>
- 
-  <a href="https://github.com/rpdana">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rpdana&theme=radical&show_icons=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpdana&layout=compact&langs_count=8&theme=radical"/>   
-</div>
   
 __________________________________________________________________________________________________
   
