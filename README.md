@@ -21,75 +21,34 @@ ________________________________________________________________________________
 [![Instagram](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fiorella-diaz-b3a70625a/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)]()
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
-<div>
+</div>
  
+ #### Tecnologias
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+ ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+ ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+ ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+ ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+ ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+ ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+ ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+ ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+ ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+ ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+ ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
  
- 
+ <!--
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=madushadhanushka&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
+
  
   <a href="https://github.com/rpdana">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rpdana&theme=radical&show_icons=true"/>
 </div>
    
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 
-   
-<br>
-<img width="50" alt="danagif" src="https://i.pinimg.com/originals/98/77/d8/9877d84ca295e9caf765ae415b6001c8.gif"
-<img align="right" height="180" alt="danagif" src="https://cdn.discordapp.com/attachments/836712599180935248/994459932810301451/GIFGIT.gif">
-</br>
-- 🎓 Cursando 8º Semestre em Design de Games 
-- 💚 UAM
-- 😉 Pronome: ela/dela
-<br> 
-   <body>
-      <a href="https://www.artstation.com/rpdana94">
-         <img align="right" alt="Artstation" src="https://cdn.discordapp.com/attachments/836712599180935248/983119172508741723/unknown.png"
-         width=30" height="30">
-      </a>
-   </body> 
-   
-   <body>
-      <a href="https://www.instagram.com/rpdana_/">
-         <img align="right" alt="Instagram" src="https://cdn.discordapp.com/attachments/836712599180935248/983117007748747354/unknown.png"
-         width=30" height="30">
-      </a>
-   </body> 
-    <body>
-      <a href="https://www.linkedin.com/in/daiane-rodrigues-131807140/">
-         <img align="right" alt="LinkedIn" src="https://cdn.discordapp.com/attachments/836712599180935248/983118329256484944/unknown.png"
-         width=30" height="30">
-      </a>
-   </body>  
-                              
-   <body >
-      <a href="https://danarodrigues.wixsite.com/rpdana">
-         <img align="right" alt="Site" src="https://cdn.discordapp.com/attachments/836712599180935248/983117882567307364/unknown.png"
-         width=30" height="30" >
-      </a>
-   </body>
-  </br>
-  
-
-  
-__________________________________________________________________________________________________
-  
-### Trabalho com 
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Dana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Dana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Dana-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Dana-Unity" height="35" width="35" src="https://cdn.discordapp.com/attachments/836712599180935248/873092697592823838/pngwing.com.png">
-  <img align="center" alt="Dana-Photoshop" height="35" width="35" src="https://cdn.discordapp.com/attachments/836712599180935248/873089580918792303/efe852ccb2591f06641037c5d72bc87d.png">
-  <img align="center" alt="Dana-Illustrator" height="35" width="55" src="https://cdn.discordapp.com/attachments/836712599180935248/873090977756217414/Illustrator-logo.png">
-  <img align="center" alt="Dana-Maya" height="30" width="30" src="https://cdn.discordapp.com/attachments/836712599180935248/873090975436771328/76123305-4c826a00-5fc6-11ea-8c65-4eee21fd386f.png">
-  <img align="center" alt="Dana-Procreate" height="35" width="35" src="https://cdn.discordapp.com/attachments/836712599180935248/873104419569414164/procreate-icon-search-display.png">
-
-</div>
-
-__________________________________________________________________________________________________
-<div>
-
-### Commits:
-  
-  ![Snake animation](https://github.com/rpdana/rpdana/blob/output/github-contribution-grid-snake.svg)
-</div>
+-->
