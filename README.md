@@ -1,5 +1,4 @@
 
-
 <h1 align='center'> Hi, I'm Fiorella Yumi 😊👋</h1>
  <br/>
 <p align="center"><samp> ✨ I embarked on a journey into the world of programming as a personal challenge to better myself.I have developed a deep passion for <code>coding;</code> it has not only revealed to me the inherent beauty of web development but also brought me immense joy in witnessing my growth and the things I am capable of accomplishing today✨</samp></p>
@@ -16,7 +15,12 @@
 
 __________________________________________________________________________________________________
 
-### Stats
+### My social networks 
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(https://myaccount.google.com/?hl=es_419&utm_source=OGB&utm_medium=act)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 <div>
   <a href="https://github.com/rpdana">
