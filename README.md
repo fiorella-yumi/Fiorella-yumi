@@ -1,9 +1,12 @@
+
+
+<h1 align='center'> Hi, I'm Fiorella Yumi ❤️＼( ´ ▽ ` )／❤️</h1>
+<p align="center">I embarked on a journey into the world of programming as a personal challenge to better myself.I have developed a deep passion for <code>coding;</code> it has not only revealed to me the inherent beauty of web development but also brought me immense joy in witnessing my growth and the things I am capable of accomplishing today.👩‍💻✨</p>
+
+
 <br>
 <img align="right" height="180" alt="danagif" src="https://cdn.discordapp.com/attachments/836712599180935248/994459932810301451/GIFGIT.gif">
 </br>
-
-### Olá! Eu sou a Daiane, mas pode me chamar de Dana 😊
-
 
 - 🎓 Cursando 8º Semestre em Design de Games 
 - 💚 UAM
